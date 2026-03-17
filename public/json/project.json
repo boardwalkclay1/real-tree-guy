@@ -1,0 +1,89 @@
+[
+  {
+    "id": "proj-001",
+    "clientName": "Ms. Johnson",
+    "location": "West Side, Atlanta",
+    "category": "Elderly",
+    "description": "Overgrown front yard with a dangerous leaning tree near the porch.",
+    "estimatedCost": 450,
+    "currentRaised": 275,
+    "status": "active",
+    "videos": [
+      {
+        "type": "intro",
+        "title": "Meeting Ms. Johnson",
+        "url": "https://example.com/videos/ms-johnson-intro.mp4"
+      }
+    ],
+    "beforePhotos": [
+      "https://example.com/images/ms-johnson-before-1.jpg",
+      "https://example.com/images/ms-johnson-before-2.jpg"
+    ],
+    "afterPhotos": [],
+    "donations": [
+      {
+        "name": "Tree Guardian Tom",
+        "amount": 50,
+        "badge": "Branch Supporter"
+      },
+      {
+        "name": "Yard Angel Mia",
+        "amount": 75,
+        "badge": "Canopy Champion"
+      },
+      {
+        "name": "Anonymous",
+        "amount": 150,
+        "badge": "Root Level Hero"
+      }
+    ],
+    "donateLink": "https://your-donation-processor.com/donate?project=proj-001"
+  },
+  {
+    "id": "proj-002",
+    "clientName": "Community Lot on 3rd",
+    "location": "Downtown",
+    "category": "Community",
+    "description": "Vacant lot cleanup to create a safe play space for kids.",
+    "estimatedCost": 800,
+    "currentRaised": 800,
+    "status": "completed",
+    "videos": [
+      {
+        "type": "before",
+        "title": "The lot before cleanup",
+        "url": "https://example.com/videos/lot-before.mp4"
+      },
+      {
+        "type": "after",
+        "title": "Kids playing after cleanup",
+        "url": "https://example.com/videos/lot-after.mp4"
+      }
+    ],
+    "beforePhotos": [
+      "https://example.com/images/lot-before-1.jpg"
+    ],
+    "afterPhotos": [
+      "https://example.com/images/lot-after-1.jpg",
+      "https://example.com/images/lot-after-2.jpg"
+    ],
+    "donations": [
+      {
+        "name": "Neighborhood Crew",
+        "amount": 300,
+        "badge": "Community Roots"
+      },
+      {
+        "name": "Green Thumb Gina",
+        "amount": 200,
+        "badge": "Leaf Legend"
+      },
+      {
+        "name": "Playground Pals",
+        "amount": 300,
+        "badge": "Forest Founder"
+      }
+    ],
+    "donateLink": "https://your-donation-processor.com/donate?project=proj-002"
+  }
+]
